@@ -1,0 +1,3 @@
+Security
+YOU MUST validate external inputs, sanitize dynamic content
+YOU MUST NEVER use eval(), unsafe regex, innerHTML with unsanitized data
